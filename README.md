@@ -17,9 +17,5 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-## 📊 GitHub 统计
-![GitHub统计](https://github-readme-stats.vercel.app/api?username=xueldx&show_icons=true&theme=radical)
-
-
 ## 📫 访问统计
 ![访问统计](https://profile-counter.glitch.me/xueldx/count.svg)
